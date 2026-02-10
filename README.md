@@ -1,34 +1,100 @@
-# 👋 Hi, I'm letsconfuse
 
-I'm an enthusiast who enjoys building small tools and experimenting with code. I use GitHub to share mini-projects, learn by doing, and explore new technologies. I'm currently improving my skills in Python, JavaScript, and Bash scripting.
+<h1 align="center"> `L E T S C O N F U S E` </h1>
 
----
+<h3 align="center">
+  <code>QA_AUTOMATION</code> • <code>PYTHON_DEV</code> • <code>SECURITY_RESEARCHER</code> • <code>SIM_RACER</code>
+</h3>
 
-## 🧩 About Me
-- 🔍 I love breaking down problems and automating tasks
-- 🛠️ Always exploring new tech and open-source tools
-- 🌱 Currently learning: React, APIs, and Linux scripting
-- 🎯 Goal: Build useful tools and contribute to the developer community
+<br/>
 
----
+<div align="center">
+
+<h3> <code>// THE MISSION</code> </h3>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=I+break+software+to+make+it+stronger.;I+automate+the+boring+stuff.;I+drift+through+code+and+tracks." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<h3> <code>// METHODOLOGY</code> </h3>
+
+<p align="center">
+  <b><code>[ CORE_VALUES ]</code></b><br>
+  <code>QUALITY_OVER_QUANTITY</code>  <code>DEEP_WORK</code>  <code>SECURE_BY_DESIGN</code>
+</p>
+
+<p align="center">
+  <b><code>[ WORK_STYLE ]</code></b><br>
+  <code>SPRINT_PLANNING</code>  <code>ASYNC_COMMUNICATION</code>  <code>ITERATIVE_DEV</code>
+</p>
+
+<br/>
+
+<h3> <code>// CURRENT_OBJECTIVES</code> </h3>
+
+<p align="center">
+  <b><code>[ LEARNING_PATH ]</code></b><br>
+  <code>ADVANCED_TEST_FRAMEWORKS</code>  <code>AI_POWERED_QA</code>  <code>CI_CD_ORCHESTRATION</code>
+</p>
+
+<p align="center">
+  <b><code>[ TARGETS ]</code></b><br>
+  <code>ZERO_FLAKINESS</code>  <code>FULL_STACK_QA_ARCHITECT</code>
+</p>
+
+<br/>
+
+<h3> <code>// THE TOOLBOX</code> </h3>
+
+<p align="center">
+  <b><code>[ LANGUAGES ]</code></b><br>
+  <code>PYTHON</code>  <code>JAVASCRIPT</code>  <code>BASH</code>
+</p>
+
+<p align="center">
+  <b><code>[ AUTOMATION ]</code></b><br>
+  <code>SELENIUM</code>  <code>PYTEST</code>  <code>OPENCV</code>
+</p>
+
+<p align="center">
+  <b><code>[ SECURITY ]</code></b><br>
+  <code>KALI_LINUX</code>  <code>BURP_SUITE</code>  <code>WIRESHARK</code>
+</p>
+
+<p align="center">
+  <b><code>[ CORE ]</code></b><br>
+  <code>LINUX</code>  <code>GIT</code>  <code>DOCKER</code>  <code>VS_CODE</code>
+</p>
+
+<br/>
+
+<h3> <code>// SIM_LOGS</code> </h3>
+
+<p align="center">
+  <b><code>[ CURRENTLY_DRIVING ]</code></b><br>
+  <code>ASSETTO_CORSA</code>
+</p>
+
+<p align="center">
+  <b><code>[ DRIVING_STYLE ]</code></b><br>
+  <code>SIM_RACING</code>
+</p>
+
+<br/>
+
+
+<h3> <code>// ACTIVITY_PROTOCOL</code> </h3>
 
 
 
-## 🛠️ Tools & Technologies
+<img src="https://github-readme-stats.vercel.app/api?username=letsconfuse&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letsconfuse&layout=compact&theme=gotham&hide_border=true&bg_color=00000000&langs_count=6" height="150" />
 
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Bash](https://img.shields.io/badge/-Bash-333?style=flat&logo=gnubash)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+<br/><br/>
 
----
+<h3> <code>// UPLINK</code> </h3>
+<code>[ STATUS: LISTENING_ON_GITHUB ]</code><br>
+<code>[ PULL_REQUESTS: OPEN ]</code>  <code>[ ISSUES: WELCOME ]</code>
 
-<!-- GitHub Stats (Optional: Hide if you prefer not to show commit activity) -->
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=letsconfuse&show_icons=true&theme=default)
--->
-
-> Thanks for visiting! I'm just getting started — more to come soon 👨‍💻
-
+</div>
